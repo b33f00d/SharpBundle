@@ -1,5 +1,5 @@
 # SharpAttack
-***Executable of SharpAttack already Compiled***
+***Executable of SharpAttack already Compiled, THIS IS NOT MY TOOL, but I have compiled it for use in the field***
 
 
 SharpAttack is a console for certain things I use often during security assessments. It leverages .NET and the Windows API to perform its work. It contains commands for domain enumeration, code execution, and other fun things.
