@@ -1,5 +1,7 @@
 # SharpAttack
-****Executable of SharpAttack already Compiled****
+***Executable of SharpAttack already Compiled***
+
+
 SharpAttack is a console for certain things I use often during security assessments. It leverages .NET and the Windows API to perform its work. It contains commands for domain enumeration, code execution, and other fun things.
 
 ## Commands
@@ -61,4 +63,6 @@ SharpAttack also works with Cobalt Strikes `execute-assembly`, just as it would 
 
 ## Thanks
 SharpAttack is built on top of [Cobbr's](https://twitter.com/cobbr_io) incredible [SharpSploit Project](https://github.com/cobbr/SharpSploit). SharpAttack is basically an easy way to interact with SharpSploit.
-Credit to JaredHaight 
+
+
+***Credit to JaredHaight: https://github.com/jaredhaight***
